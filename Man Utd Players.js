@@ -21,3 +21,27 @@
 	
 	
 },
+	
+{
+	"position":"Forward",
+	"id":103,
+	"height": "1.8 m",
+	"date of birth": "October 31, 1998 ",
+	"image":"http://cdn.images.express.co.uk/img/dynamic/67/590x/Marcus-Rashford-Manchester-United-Contract-649796.jpg",
+	"name":"Marcus Rashford",
+	"shirt number": 19
+	
+	
+},
+
+{
+	"position":"GoalKeeper",
+	"id":104,
+	"height": "1.92 m",
+	"date of birth": "November 7, 1990 ",
+	"image":"http://www.manutdpics.com/t/2/manchester-united-team-group-photocall-11328653.jpg",
+	"name":"David De Gea",
+	"shirt number": 1
+	
+	
+},
